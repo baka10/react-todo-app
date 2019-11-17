@@ -1,5 +1,6 @@
 FROM node:10-alpine
 
+
 ENV NODE_ENV development
 
 WORKDIR /usr/app
